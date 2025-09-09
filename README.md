@@ -210,7 +210,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 - **Project Lead**: [Jaishnav Das] - jaishnavdas005@gmail.com
-- **Documentation**: Visit our [Wiki](https://github.com/j005d/SkyNet)
+- **Documentation**: Visit our [Github](https://github.com/j005d/SkyNet)
 
 **Made with ❤️ for earthquake education and disaster awareness**
 
