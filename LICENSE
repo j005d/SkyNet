@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Tectonix - Exploring Earth's Tremor
+Copyright (c) 2025 Jaishnav Das
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,42 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-## Additional Educational Use Terms
-
-This software is specifically designed for educational purposes. We encourage:
-
-1. **Educational Institution Use**: Schools, colleges, and universities are 
-   encouraged to use, modify, and distribute this software for educational purposes.
-
-2. **Student Projects**: Students may use this codebase as a foundation for 
-   their own earthquake-related projects and research.
-
-3. **Teacher Resources**: Educators may adapt and integrate this tool into 
-   their curriculum without additional licensing requirements.
-
-4. **Non-Commercial Research**: Academic researchers may use this software 
-   for non-commercial earthquake education research.
-
-## Data Attribution
-
-This software utilizes earthquake data from:
-- USGS Earthquake Hazards Program (Public Domain)
-- OpenStreetMap (Open Database License)
-
-Users of this software should maintain appropriate attribution to these data sources
-in any derivative works or publications.
-
-## Disclaimer
-
-This educational tool is designed for learning purposes and should not be used for:
-- Emergency response or real-time earthquake monitoring
-- Professional seismic analysis or decision-making
-- Earthquake prediction or safety-critical applications
-
-For official earthquake information and emergency alerts, always consult:
-- Local emergency management agencies
-- National geological survey organizations (USGS, etc.)
-- Official government disaster response services
