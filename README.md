@@ -90,7 +90,7 @@ Tectonix bridges the gap between data science and education by providing a **bro
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/tectonix.git
+   git clone https://github.com/j005d/SkyNet.git
    cd tectonix
    ```
 
@@ -115,7 +115,7 @@ Tectonix bridges the gap between data science and education by providing a **bro
    ```
 
 5. **Open your browser**
-   Navigate to `http://localhost:3000` to start exploring!
+   Navigate to `http://demohost:3000` to start exploring!
 
 ### Quick Demo
 
